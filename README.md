@@ -111,17 +111,4 @@ Aprendí a estructurar mejor mis peticiones y a iterar sobre el código generado
 
 ---
 
-## 📦 Cómo ejecutar el juego
 
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/Stevecup123/trollus-game.git
-
-# 2. Entrar a la carpeta
-cd trollus-game
-
-# 3. Instalar dependencias
-pip install -r requirements.txt
-
-# 4. Ejecutar el juego
-python main.py
